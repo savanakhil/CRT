@@ -6,14 +6,15 @@
 #     c=a+i*d
 #     print(c,end=",")
 
-'''a = 0
+'''(Fibonacci series)a = 0
 b = 1 
 n = int(input())
 for i in range(n):
     print(a,end=" ")
-    a,b=b,a+b
-'''
-#fibbinoci
+    a,b=b,a+b'''
+  '''OR'''
+
+#fibonacci
 # n = int(input())
 # fii = [0,1]
 # for i in range(2,n):
@@ -21,10 +22,7 @@ for i in range(n):
 # print(fii)
 
 
-'''squares
-n = int(input())
-for i in range(1,11):
-    print(n**i,end=" ")'''
+
 
 #Armstrong number
 # n = int(input())
