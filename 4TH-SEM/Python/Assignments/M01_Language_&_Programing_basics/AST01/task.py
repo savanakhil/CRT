@@ -1,3 +1,4 @@
+#
 def Ticket_Pricing(n: int) -> int:
    if n < 5:
       return 0
